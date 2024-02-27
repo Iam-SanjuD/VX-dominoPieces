@@ -1,0 +1,28 @@
+{
+    "group0": {
+        "dependency": {
+            "dockerfile": null,
+            "requirements_file": "requirements_0.txt"
+        },
+        "pieces": [
+            "SaveImagePiece",
+            "GetDateTimePiece",
+            "CustomPythonPiece",
+            "LogPiece",
+            "ImageFilterPiece",
+            "DataConversionPiece",
+            "YDataProfilingPiece",
+            "StringConditionChecksPiece",
+            "PageScrapperPiece",
+            "SleepPiece",
+            "StringOperationsPiece",
+            "ToyDatasetsPiece",
+            "ToStringPiece",
+            "LoremIpsumGeneratorPiece",
+            "GetItemFromArrayPiece",
+            "HttpRequestPiece"
+        ],
+        "secrets": [],
+        "source_image": "ghcr.io/tauffer-consulting/default_domino_pieces:0.8.1-group0"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "PageScrapperPiece",
+    "description": "Scrapes text from a web page, given a URL and a list of HTML tags.",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "default",
+        "scrapper"
+    ],
+    "style": {
+        "node_label": "Page Scrapper",
+        "icon_class_name": "lucide:text-selection"
+    }
+}

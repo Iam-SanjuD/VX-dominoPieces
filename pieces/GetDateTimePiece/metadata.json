@@ -1,0 +1,15 @@
+{
+    "name": "GetDateTimePiece",
+    "description": "A Piece that gets system's current date and time.",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "default",
+        "datetime"
+    ],
+    "style": {
+        "node_label": "Get Datetime",
+        "icon_class_name": "fa:calendar-o"
+    }
+}

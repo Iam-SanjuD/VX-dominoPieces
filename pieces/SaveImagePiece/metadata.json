@@ -1,0 +1,15 @@
+{
+    "name": "SaveImagePiece",
+    "description": "Save base64 as image file to results folder.",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "default",
+        "image"
+    ],
+    "style": {
+        "node_label": "Save Image",
+        "icon_class_name": "material-symbols:image-outline"
+    }
+}

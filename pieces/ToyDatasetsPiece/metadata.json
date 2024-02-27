@@ -1,0 +1,15 @@
+{
+    "name": "ToyDatasetsPiece",
+    "description": "Load toy datasets from scikit-learn",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "default",
+        "datasets"
+    ],
+    "style": {
+        "node_label": "Toy Datasets",
+        "icon_class_name": "lucide:toy-brick"
+    }
+}
